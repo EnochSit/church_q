@@ -1,0 +1,12 @@
+venv
+*.pyc
+staticfiles
+.env
+env
+node_modules
+church_q/static/build
+db.sqlite3
+.DS_Store
+__pycache__
+church_q/
+package-lock.json
